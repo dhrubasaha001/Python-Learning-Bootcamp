@@ -48,4 +48,7 @@
 # # Length of list
 # print(len(fruits))  # Number of elements
 
+# # Looping with index and item
+# for index, fruit in enumerate(fruits):
+#     print(f"{index}: {fruit}")
 
