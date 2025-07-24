@@ -35,3 +35,17 @@
 # words=['banana','apple','kiwi']
 # words.sort(key=len)
 # print(words)
+
+# # Check if item exists
+# print('apple' in fruits)  # True or False
+
+# # Length of list
+# print(len(fruits))  # Number of elements
+
+# # Check if item exists
+# print('apple' in fruits)  # True or False
+
+# # Length of list
+# print(len(fruits))  # Number of elements
+
+
